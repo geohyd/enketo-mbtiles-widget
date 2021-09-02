@@ -1,4 +1,4 @@
-Mbtiles Enketo Widget
+Mbtiles Enketo Widget 1.0.0
 ==========
 
 To add this widget to your Enketo Express installation see [this guidance](https://github.com/kobotoolbox/enketo-express/blob/master/tutorials/34-custom-widgets.md).
