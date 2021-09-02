@@ -1,0 +1,28 @@
+{
+    "name": "enketo-mbtiles-widget",
+    "description": "Enketo widget to support mbtiles files on geomap",
+    "homepage": "https://enketo.org",
+    "version": "1.0.0",
+    "main": "./geopicker.js",
+    "keywords": [
+        "enketo",
+		"mbtiles",
+		"anteagroup"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/geohyd/enketo-mbtiles-widget"
+    },
+    "bugs": "https://github.com/geohyd/enketo-mbtiles-widget/issues",
+    "author": {
+        "name": "Maxime Gourlay",
+        "email": "maxime.gourlay@anteagroup.fr",
+        "url": "https://www.anteagroup.fr"
+    },
+    "contributors": [],
+    "private": true,
+    "license": "Apache-2.0",
+    "dependencies": {
+        "enketo-core": "5.x.x"
+    }
+}
